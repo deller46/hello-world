@@ -1,3 +1,4 @@
 # hello-world
-Steve here. I have written software for 50 years -- lots of changes :-).  I still prefer Ada over C++, particularly Ada2012 with its pre and post conditions for verification.  Also like Perl.  Java isn't too bad and JavaScript was fun for programming a Sudoku solver, but I still find Ada to allow me to write code with the greatest integrity.  By integrity, I mean the code can be understood, modified without collapsing, and expresses in detail the intentions of the code.  
-Learning Nodejs at the moment.
+Steve here. I have written software for 50 years -- lots of changes :-). Have used over 50 languages over the years (about 20 being assembly languages). Using C, Python, bash, and C++ a lot in current work. I still prefer Ada over C++, particularly Ada2012 with its pre and post conditions for verification.  Also like Perl.  Java isn't too bad and JavaScript was fun for programming a Sudoku solver, but I still find Ada allowed me to write code that had the greatest integrity By integrity, I mean the code can be understood, modified without causing remote errors, and can express mathematically the intentions of the code (code proving). 
+Looking into R and Rust and Bosque as time permits.
+Studying in more detail Python and yet-another-assembly-code ABI I just started programming.
